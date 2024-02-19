@@ -61,6 +61,7 @@ Aggiungi note su come usare il sistema.
 - De Cales Giovanni
 - Murgo Francesco
 - Roma Marco
+- Rossi Eleonora
 - Scrima William
 
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
