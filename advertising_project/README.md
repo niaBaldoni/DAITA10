@@ -22,7 +22,7 @@
 
 ## 🧐 Testo del Problema <a name = "problem_statement"></a>
 
-Il cliente ha richiesto l'analisi di alcuni dati per capire quanto vale la pena investire in pubblicità, e quali canali sono i più approprieti.
+Il cliente ha richiesto l'analisi di alcuni dati per capire quanto vale la pena investire in pubblicità, e quali canali sono i più appropriati.
 
 ## 💡 Idea <a name = "idea"></a>
 
