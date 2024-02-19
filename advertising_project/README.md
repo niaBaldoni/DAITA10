@@ -15,11 +15,8 @@
 - [Testo del Problema](#problem_statement)
 - [Idea / Soluzione](#idea)
 - [Dipendenze / Limitazioni](#limitations)
-- [Scopo Futuro](#future_scope)
-- [Impostare un ambiente locale](#getting_started)
 - [Utilizzo](#usage)
 - [Tecnologie Utilizzate](#tech_stack)
-- [Contribuire](../CONTRIBUTING.md)
 - [Autori](#authors)
 - [Riconoscimenti](#acknowledgments)
 
